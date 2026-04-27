@@ -273,9 +273,9 @@ if st.session_state.menu == "🏠 Home":
             st.rerun()
     
     st.markdown("---")
-    st.markdown("### ✨ Key Features")
+    st.markdown("### Key Features")
     st.markdown("""
-    - ✅ **7 AI modules** for different health predictions
+    - ✅ **6 AI modules** for different health predictions
     - ✅ **Real-time predictions** – just enter patient data
     - ✅ **Evidence-based recommendations**
     - ✅ **BMI Calculator** included
@@ -482,6 +482,6 @@ elif st.session_state.menu == "🧮 BMI Calculator":
 st.markdown("""
 <div class="footer">
     <p>🏥 Health Care Intelligence Platform | Powered by Machine Learning</p>
-    <p>© 2025 | For educational purposes only</p>
+    <p>© 2026 | For educational purposes only</p>
 </div>
 """, unsafe_allow_html=True)
